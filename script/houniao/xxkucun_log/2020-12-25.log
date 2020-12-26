@@ -1,0 +1,97 @@
+[2020-12-25 16:55:38]:statistic scheduler start
+[2020-12-25 16:55:39]:开始下载城市：上海
+[2020-12-25 16:55:39]:开始下载即将下线
+[2020-12-25 16:55:39]:request get:https://api.xxkucun.com/v1/product/pro/GetDownLineList?user_id=null&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 16:56:09]:statistic scheduler start
+[2020-12-25 16:56:10]:开始下载城市：上海
+[2020-12-25 16:56:10]:开始下载即将下线
+[2020-12-25 16:56:10]:request get:https://api.xxkucun.com/v1/product/pro/GetDownLineList?user_id=null&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 16:56:15]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=7278&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 16:56:28]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=11111&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 16:56:36]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=8963&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 16:56:45]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10138&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 16:56:53]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=9165&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 16:57:30]:statistic scheduler start
+[2020-12-25 16:57:31]:开始下载城市：上海
+[2020-12-25 16:57:31]:开始下载专栏
+[2020-12-25 16:57:44]:request get:https://api.xxkucun.com/v1/product/GetListArrayByCategory?lng=33.00125&lat=103.56358166666665&city_id=1
+[2020-12-25 17:05:03]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=11135&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:05:08]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=8426&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:05:14]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10610&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:05:18]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=11077&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:05:24]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=7587&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:05:28]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=11155&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:05:33]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10698&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:05:38]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=8603&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:05:43]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10908&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:05:50]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10881&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:05:56]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10618&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:06:12]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10973&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:06:21]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10739&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:06:25]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=6751&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:06:28]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10928&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:06:34]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=11069&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:06:39]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10175&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:06:44]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10288&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:06:49]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10536&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:06:56]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=11190&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:07:02]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=9775&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:07:05]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=8638&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:07:11]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=9882&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:07:14]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10151&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:07:18]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10521&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:07:22]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10186&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:07:25]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10528&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:07:28]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10863&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:07:30]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=8348&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:07:34]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10399&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:07:38]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=11040&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:07:42]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=11122&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:07:47]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10459&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:07:50]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=11132&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:07:53]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10508&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:07:57]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10388&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:08:00]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10692&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:08:05]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=6765&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:08:09]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=8742&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:08:13]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10791&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:08:17]:开始下载即将下线
+[2020-12-25 17:08:17]:request get:https://api.xxkucun.com/v1/product/pro/GetDownLineList?user_id=null&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:08:19]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=7278&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:08:27]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=11111&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:08:33]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=8963&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:08:47]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10138&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:08:58]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=8049&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:09:03]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=7972&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:09:07]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=7397&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:09:11]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=6131&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:09:16]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=5500&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:09:21]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=8603&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 17:09:25]:开始下载区域， 条目基础数据
+[2020-12-25 18:10:05]:statistic scheduler start
+[2020-12-25 18:10:05]:开始下载城市：上海
+[2020-12-25 18:10:05]:开始下载专栏
+[2020-12-25 18:10:05]:request get:https://api.xxkucun.com/v1/product/GetListArrayByCategory?lng=33.00125&lat=103.56358166666665&city_id=1
+[2020-12-25 18:10:23]:statistic scheduler start
+[2020-12-25 18:10:23]:开始下载城市：上海
+[2020-12-25 18:10:23]:开始下载专栏
+[2020-12-25 18:10:23]:request get:https://api.xxkucun.com/v1/product/GetListArrayByCategory?lng=33.00125&lat=103.56358166666665&city_id=1
+[2020-12-25 18:14:50]:img https://cdn2.xxkucun.com/xxkucun/xiangmu/20201224/dee9a4d7-84dd-487b-828b-6e37c40b6bf7.gif download err
+[2020-12-25 18:14:50]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=11135&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 18:15:08]:statistic scheduler start
+[2020-12-25 18:15:09]:开始下载城市：上海
+[2020-12-25 18:15:09]:开始下载专栏
+[2020-12-25 18:15:09]:request get:https://api.xxkucun.com/v1/product/GetListArrayByCategory?lng=33.00125&lat=103.56358166666665&city_id=1
+[2020-12-25 18:15:17]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=11135&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 18:15:20]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=11077&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 18:15:24]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=7587&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 18:15:27]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=8426&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 18:15:30]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=8603&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 18:15:33]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10908&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 18:15:37]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=9360&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 18:15:43]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10610&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 18:15:49]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10698&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 18:15:52]:request get:https://api.xxkucun.com/v1/product/detail/get?prod_id=10547&lng=103.56358166666665&lat=33.00125&city_id=1
+[2020-12-25 18:18:16]:statistic scheduler start
+[2020-12-25 18:18:17]:开始下载城市：上海
+[2020-12-25 18:18:19]:request get:https://api.xxkucun.com/v1/product/banner/list?ver=1&city_id=1

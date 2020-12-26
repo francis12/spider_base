@@ -1,0 +1,60 @@
+[2020-12-18 17:50:46]:statistic scheduler start
+[2020-12-18 17:50:49]:request get:https://www.houniao.hk/wxapi/index/country
+[2020-12-18 17:50:56]:statistic scheduler start
+[2020-12-18 17:51:26]:request get:https://www.houniao.hk/wxapi/index/country
+[2020-12-18 17:51:39]:statistic scheduler start
+[2020-12-18 17:51:42]:request get:https://www.houniao.hk/wxapi/index/country
+[2020-12-18 17:51:56]:request get:https://www.houniao.hk/wxapi/goods/selectGoods
+[2020-12-18 17:51:56]:{'originId': '6', 'page': 1, 'limit': 8}
+[2020-12-18 18:20:38]:statistic scheduler start
+[2020-12-18 18:20:38]:request get:https://www.houniao.hk/wxapi/index/carousel
+[2020-12-18 18:20:39]:img upload/adspic/2020-07/5f0d130978a1e.png download err
+[2020-12-18 18:20:39]:img upload/adspic/2020-04/5e9199545e38c.jpg download err
+[2020-12-18 18:20:39]:img upload/adspic/2020-12/5fc5f16c5d9b9.jpg download err
+[2020-12-18 18:20:39]:img upload/adspic/2020-04/5e959990a04f9.jpg download err
+[2020-12-18 18:20:41]:request get:https://www.houniao.hk/wxapi/index/country
+[2020-12-18 18:20:48]:img upload/adspic/2017-03/58be69d4c00e1.jpg download err
+[2020-12-18 18:21:28]:statistic scheduler start
+[2020-12-18 18:21:28]:request get:https://www.houniao.hk/wxapi/index/carousel
+[2020-12-18 18:21:28]:img upload/adspic/2020-07/5f0d130978a1e.png download err
+[2020-12-18 18:21:28]:img upload/adspic/2020-04/5e9199545e38c.jpg download err
+[2020-12-18 18:21:28]:img upload/adspic/2020-12/5fc5f16c5d9b9.jpg download err
+[2020-12-18 18:21:28]:img upload/adspic/2020-04/5e959990a04f9.jpg download err
+[2020-12-18 18:21:37]:request get:https://www.houniao.hk/wxapi/index/country
+[2020-12-18 18:21:57]:request get:https://www.houniao.hk/wxapi/goods/selectGoods
+[2020-12-18 18:21:57]:{'originId': '6', 'page': 1, 'limit': 8}
+[2020-12-18 18:24:01]:statistic scheduler start
+[2020-12-18 18:24:01]:request get:https://www.houniao.hk/wxapi/index/carousel
+[2020-12-18 18:24:32]:request get:https://www.houniao.hk/wxapi/index/country
+[2020-12-18 18:24:37]:request get:https://www.houniao.hk/wxapi/goods/selectGoods
+[2020-12-18 18:24:37]:{'originId': '6', 'page': 1, 'limit': 8}
+[2020-12-18 18:24:40]:request get:https://www.houniao.hk/wxapi/goods/selectGoods
+[2020-12-18 18:24:40]:{'originId': '6', 'page': 2, 'limit': 8}
+[2020-12-18 18:24:42]:request get:https://www.houniao.hk/wxapi/goods/selectGoods
+[2020-12-18 18:24:42]:{'originId': '8', 'page': 1, 'limit': 8}
+[2020-12-18 18:24:44]:request get:https://www.houniao.hk/wxapi/goods/selectGoods
+[2020-12-18 18:24:44]:{'originId': '8', 'page': 2, 'limit': 8}
+[2020-12-18 18:24:46]:request get:https://www.houniao.hk/wxapi/goods/selectGoods
+[2020-12-18 18:24:46]:{'originId': '3', 'page': 1, 'limit': 8}
+[2020-12-18 18:24:48]:request get:https://www.houniao.hk/wxapi/goods/selectGoods
+[2020-12-18 18:24:48]:{'originId': '3', 'page': 2, 'limit': 8}
+[2020-12-18 18:24:51]:request get:https://www.houniao.hk/wxapi/goods/selectGoods
+[2020-12-18 18:24:51]:{'originId': '10', 'page': 1, 'limit': 8}
+[2020-12-18 18:24:54]:request get:https://www.houniao.hk/wxapi/goods/selectGoods
+[2020-12-18 18:24:54]:{'originId': '10', 'page': 2, 'limit': 8}
+[2020-12-18 18:24:55]:request get:https://www.houniao.hk/wxapi/goods/selectGoods
+[2020-12-18 18:24:55]:{'originId': '5', 'page': 1, 'limit': 8}
+[2020-12-18 18:24:58]:request get:https://www.houniao.hk/wxapi/goods/selectGoods
+[2020-12-18 18:24:58]:{'originId': '5', 'page': 2, 'limit': 8}
+[2020-12-18 18:25:03]:request get:https://www.houniao.hk/wxapi/goods/selectGoods
+[2020-12-18 18:25:03]:{'originId': '1', 'page': 1, 'limit': 8}
+[2020-12-18 18:25:05]:request get:https://www.houniao.hk/wxapi/goods/selectGoods
+[2020-12-18 18:25:05]:{'originId': '1', 'page': 2, 'limit': 8}
+[2020-12-18 18:25:08]:request get:https://www.houniao.hk/wxapi/goods/selectGoods
+[2020-12-18 18:25:08]:{'originId': '11', 'page': 1, 'limit': 8}
+[2020-12-18 18:25:10]:request get:https://www.houniao.hk/wxapi/goods/selectGoods
+[2020-12-18 18:25:10]:{'originId': '11', 'page': 2, 'limit': 8}
+[2020-12-18 18:25:12]:request get:https://www.houniao.hk/wxapi/goods/selectGoods
+[2020-12-18 18:25:12]:{'originId': '2', 'page': 1, 'limit': 8}
+[2020-12-18 18:25:14]:request get:https://www.houniao.hk/wxapi/goods/selectGoods
+[2020-12-18 18:25:14]:{'originId': '2', 'page': 2, 'limit': 8}
